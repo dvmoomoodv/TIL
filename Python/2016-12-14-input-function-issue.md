@@ -1,1 +1,1 @@
-[git@github.com:dvmoomoodv/TIL.git](git@github.com:dvmoomoodv/TIL.git)
+[http://stackoverflow.com/questions/22623528/sys-stdin-readline-and-input-which-one-is-faster-when-reading-lines-of-inpu](http://stackoverflow.com/questions/22623528/sys-stdin-readline-and-input-which-one-is-faster-when-reading-lines-of-inpu)
