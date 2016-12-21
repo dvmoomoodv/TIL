@@ -4,3 +4,6 @@ Init
   
   
 [Dive Into Python 3](http://www.diveintopython3.net/)  
+  
+  
+[Pycharm](https://www.jetbrains.com/pycharm/)
